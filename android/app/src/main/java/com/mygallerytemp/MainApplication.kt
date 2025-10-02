@@ -1,4 +1,4 @@
-package com.mygallery
+package com.mygallerytemp
 
 import android.app.Application
 import com.facebook.react.PackageList
